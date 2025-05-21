@@ -1,7 +1,8 @@
 # Vijay Computers – Official Website
 
 ## 🖼️ Website Preview
-![image](https://github.com/user-attachments/assets/4625bbd3-2ca6-4a3b-93a6-441c21837de3)
+
+[![Website Screenshot](https://github.com/user-attachments/assets/4625bbd3-2ca6-4a3b-93a6-441c21837de3)](https://vijaycomputer.infy.uk)
 
 
 Welcome to the official website repository for **Vijay Computers**, designed and developed by [Chetan Gaur](https://vijaycomputer.infy.uk).  
